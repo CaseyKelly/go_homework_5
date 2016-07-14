@@ -1,0 +1,20 @@
+Name, Department, Asset, Assigned
+Ann, A21B, Laptop, 2016-01-09
+Bob, B50, Desktop, 2015-07-30
+Jim, A21B, Laptop, 2016-03-29
+Ann, A21B, Desktop, 2015-10-31
+Bob, B50, Laptop, 2015-02-28
+Ann, A21B, Apple iPad, 2015-05-20
+Jim, B50, Laptop, 2016-02-29
+Jim, A21B, Lenovo Laptop, 2016-02-29
+Sue, S14A, Lenovo Laptop, 2016-02-29
+Ann, A21B, iPhone, 2016-03-30
+Tim, S14A, Lenovo Laptop, 2016-02-29
+Tim, S14A, Desktop, 2016-02-28
+Ted, B50, Laptop, 2015-02-28
+Pat, B50, Desktop, 2015-07-30
+Jon, S14A, Lenovo Laptop, 2016-04-29
+Cal, B50, Laptop, 2015-05-29
+Jay, B50, Laptop, 2015-07-29
+ Jay,B50,desktop,2015-07-29
+Jim ,B50,desktop,2015-07-29
